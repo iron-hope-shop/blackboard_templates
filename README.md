@@ -1,6 +1,6 @@
 # Blackboard Templates
 HTML templates for Blackboard posts/replies
-
+OH, and it should be compliant with APA 6 formatting.  For example, the references sections are wrapped with CSS that will give them hanging indents.  You'll still need to make sure the titles of articles are in italics. If not, let me know.
 ## POST (You can add more paragraph, references, etc.)
 ![POST](/img/db_post.PNG)
 
