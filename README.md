@@ -1,6 +1,13 @@
 # Blackboard Templates
 HTML templates for Blackboard posts/replies
 
+## POST (You can add more paragraph, references, etc.)
+![Creation](/img/db_post.png)
+
+## REPLY (you can add more quotes, paragraphs, references, etc.)
+![Creation](/img/db_reply.png)
+
+
 ## Purpose
 I wasn't keen on using the built-in formatting options and transferring my work from one medium (MS Word, LibreOffice, etc.) was not working because Blackboard uses rich-text formatting.  Editing these files has been a lot more efficient for me than worrying about the formatting of my posts each time I work on my homework.
 
