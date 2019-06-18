@@ -2,10 +2,10 @@
 HTML templates for Blackboard posts/replies
 
 ## POST (You can add more paragraph, references, etc.)
-![Creation](/img/db_post.png)
+![POST](/img/db_post.PNG)
 
 ## REPLY (you can add more quotes, paragraphs, references, etc.)
-![Creation](/img/db_reply.png)
+![REPLY](/img/db_reply.PNG)
 
 
 ## Purpose
