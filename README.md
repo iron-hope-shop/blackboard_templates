@@ -13,10 +13,15 @@ Once you have chosen a template, I recommend editing it in notepad or another te
 
 ### Add the HTML to the post/reply
 ![Creation](/img/tutorial_1.png)
+
 To add the template to your post/reply, click the HTML button in the toolbar.
 
+
 ![Edit](/img/tutorial_2.png)
+
 If you have no already edited the template, this would probably be the second easiest place to do so (the easiest being in an external editor).
 
+
 ![Update](/img/tutorial_3.png)
+
 Now click the update button and vee-oh-lah.  If you are finished, submit it; otherwise, you can click preview to check out how it will look when it is submitted.
